@@ -32,6 +32,8 @@ Combined emphasis with **asterisks and *underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+---
+
 1. First ordered list item
 2. Another item
   * Unordered sub-list.
@@ -43,8 +45,12 @@ Strikethrough uses two tildes. ~~Scratch this.~~
    * note 2
    * note 3
   
+  ---
+  
 - [ ] todo list
 - [ ] 2nd things 
+  
+---
   
 python code
 ```py
@@ -52,12 +58,16 @@ s = "Python syntax highlighting"
 print s
 ```
 
+---
+
 javascript code
 ```js
 var s = "JavaScript syntax highllghting";
 alart(s);
 ```
 Colons can be used to align columns.
+
+---
 
 | Tables        | Are           |  Cool |
 | ------------- |:-------------:| -----:|
