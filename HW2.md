@@ -3,3 +3,5 @@
 ![PERT圖](PERT.png)
 
 ##甘特圖
+
+![甘特圖](GANTT.png)
